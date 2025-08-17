@@ -18,7 +18,7 @@ Here are some of the projects I’ve worked on:
   
 ---
 
-### 2️⃣ Sales and Customers Insights Dashboard
+### 2️⃣ Dim Dashboard (https://github.com/sandyeissa43/Dim-Dashboard)
 - **Tools:** Excel, Power Query  
 - **Description:** Designed a dashboard to monitor both sales and customer data, enabling deeper insights into customer behavior and sales performance.  
 - **Key Insights:** Highlighted customer segments contributing most to sales growth.
