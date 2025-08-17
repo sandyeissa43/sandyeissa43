@@ -25,10 +25,11 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-### 3️⃣ Three-Year Sales Analysis Dashboard
+### 3️⃣ Customer and Product Sales dashboard (https://github.com/sandyeissa43/Customer-and-Product-Sales-Dashboard)
 - **Tools:** Excel, Pivot Tables, Data Visualization  
-- **Description:** A comprehensive 3-year sales analysis dashboard to understand trends, seasonal effects, and long-term performance.  
-- **Key Insights:** Compared year-over-year growth and identified peak sales periods.
+- **Description:** concise dashboard showcasing Total Sales, Total Orders, Total Quantity, Monthly Sales Trends, Total Sales by Country, Sales by Currency Code, Top Selling     Products by Quantity, and Sales Distribution by Region.  
+- **Key Insights:** Total Sales: $55K, with USD leading at $29.87M, Top selling category: Cellphones at 31,477 units, Highest sales region: California at 1,311 units.
+   Monthly peak: $18.3M in mid-2018.
 
 ---
 
