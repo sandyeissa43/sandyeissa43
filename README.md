@@ -10,11 +10,12 @@
 
 Here are some of the projects I’ve worked on:
 
-### 1️⃣ Candy Sales Dashboard
+### 1️⃣ Candy Sales Dashboard (https://github.com/sandyeissa43/Candy_Sales_Dashboard)
+
 - **Tools:** Excel, Power Pivot, Power Query  
 - **Description:** Built an interactive dashboard to analyze candy sales data, track performance, and uncover insights using advanced Excel features.  
 - **Key Insights:** Identified top-selling categories and monthly revenue trends.
-
+  
 ---
 
 ### 2️⃣ Sales and Customers Insights Dashboard
