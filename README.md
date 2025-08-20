@@ -33,10 +33,11 @@ Here are some of the projects I’ve worked on:
 
 ---
 
-### 4️⃣ Difference between ChatGPT and DeepSeek
+### 4️⃣ Comparison between ChatGPT and DeepSeek (https://github.com/sandyeissa43/ChatGPT_vs_DeepSeek_Analysis/tree/main)
 - **Tools:** R Studio  
-- **Description:** A comparative data analysis project exploring differences between ChatGPT and DeepSeek using R.  
-- **Key Insights:** Applied data cleaning, visualization, and statistical techniques to highlight key distinctions.
+- **Description:** A data analysis project using R Studio to compare ChatGPT and DeepSeek. 
+The dataset was sourced from Kaggle, and the analysis includes calculating the five-number summary, creating boxplots to visualize distributions, detecting outliers, and comparing metrics such as user base and response speed. 
+- **Key Insights:** DeepSeek was found to be faster in response speed, while ChatGPT demonstrated higher response accuracy. Both platforms showed similar numbers of active and churned users. ChatGPT was more commonly used on mobile devices, and technical queries were the most common type of questions asked across both platforms.
 
 ---
 
